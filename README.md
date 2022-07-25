@@ -1,1 +1,2 @@
-# nn_percepteon
+# nn_perceptron
+Mobile
